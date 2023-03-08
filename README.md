@@ -1,2 +1,2 @@
 # HelloWorld
-学习使用GitHub ing。
+自学如何使用GitHub ing.
